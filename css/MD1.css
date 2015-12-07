@@ -61,6 +61,9 @@ img.medium{
   border-style: groove;
 }
 
+#pic_row{
+  margin-top: 50px;
+}
 #headingOne{
   background-color: #add8e6;
 
@@ -79,8 +82,8 @@ img.medium{
   background-color: #bdbdbd;
   font-size: 18px;
   font-family: 'Vollkorn', serif;
-  margin-top: 50px;
-  margin-left: 200px;
+  margin-top: 40px;
+  margin-left: 100px;
   padding: 0px 0px 5px 0px;
   height: 250px;
   text-align: justify;
@@ -110,7 +113,7 @@ img.medium{
 img.my_pic{
   position: relative;
   /*float: left;*/
-  margin-left: 20px;
+  margin-left: 150px;
   margin-top:30px;
 }
 
@@ -150,6 +153,7 @@ h4 {
   font-size: 15px;
   position: relative;
   margin-top: 20px;
+  margin-bottom: 100px;
    
 }
 
@@ -176,14 +180,14 @@ h4 {
 
 #work_exp {
   background-color: #8aacb8;
-  margin-top: 800px;
-  margin-left: 390px;
-  padding: -2%;
-  height: 400px;
+  /*margin-top: 20px;*/
+  /*margin-left: 390px;*/
+  /*padding: -2%;*/
+  /*height: 400px;*/
   text-align: left;
   font-size: 18px;
   font-family: Palatino;
-  width: 50%;
+  width: 100%;
   position: relative;
   font-family: Book Antiqua;
 
@@ -191,15 +195,15 @@ h4 {
 
 #skills {
   background-color: #7997a1;
-  margin-top: 20px;
-  margin-left: 390px;
+  /*margin-top: 20px;*/
+  /*margin-left: 390px;*/
   margin-bottom: 50px;
   padding: -2%;
-  height: 500px;
+  /*height: 500px;*/
   text-align: left;
   font-size: 18px;
   font-family: Palatino;
-  width: 50%;
+  width: 100%;
   position: relative;
   font-family: Book Antiqua;
 
